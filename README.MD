@@ -38,7 +38,7 @@ This stops tracking the file.
 To lock your changes, type `git commit --m [message]`.
 This commits the changes.
 
-## REMOTE REPOSITORY
+## REMOTE REPOSITORY:
 
 Go to GitHub.com and initialize a repository, configure it.
 
