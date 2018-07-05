@@ -1,14 +1,22 @@
 # My guide to help me remember how to use Git and GitHub.
 
 ## COMMANDS:
-touch
+`touch [new filename]`
+
 `git init`
+
 `git add [file name]`
+
 `git add .`
+
 `git status`
+
 `git rm --cached [file name]`
+
 `git commit --m [message]`
+
 `git remote add origin [repo url]`
+
 `git push -u origin master`
 
 ## INSTRUCTIONS:
