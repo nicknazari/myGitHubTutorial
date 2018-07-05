@@ -2,13 +2,14 @@
 
 ## COMMANDS:
 touch
-git init
-git add [file name]
-git status
-git rm --cached [file name]
-git commit --m [message]
-git remote add origin [repo url]
-git push -u origin master
+`git init`
+`git add [file name]`
+`git add .`
+`git status`
+`git rm --cached [file name]`
+`git commit --m [message]`
+`git remote add origin [repo url]`
+`git push -u origin master`
 
 ## INSTRUCTIONS:
 
@@ -38,3 +39,5 @@ Instructions will appear on the screen. Follow them OR follow below.
 Type `git remote add origin [repository url]`.
 
 To send your files, type `git push -u origin master`.
+
+This only needs to be done once. Afterwards, you can simply type `git push`.
