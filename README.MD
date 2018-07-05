@@ -1,5 +1,9 @@
 # My guide to help me remember how to use Git and GitHub.
 
+## QUICK TIP:
+`git add [filename or .]`, `git commit --m [details]`, and `git push` the lines 
+used to send code once the repository is configured.
+
 ## COMMANDS:
 `touch [new filename]`
 
